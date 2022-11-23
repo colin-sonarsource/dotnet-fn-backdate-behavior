@@ -1,0 +1,15 @@
+/Users/colin/dotnet-fn-backdate-behavior/bin/Debug/net7.0/dotnet-fn-backdate-behavior
+/Users/colin/dotnet-fn-backdate-behavior/bin/Debug/net7.0/dotnet-fn-backdate-behavior.deps.json
+/Users/colin/dotnet-fn-backdate-behavior/bin/Debug/net7.0/dotnet-fn-backdate-behavior.runtimeconfig.json
+/Users/colin/dotnet-fn-backdate-behavior/bin/Debug/net7.0/dotnet-fn-backdate-behavior.dll
+/Users/colin/dotnet-fn-backdate-behavior/bin/Debug/net7.0/dotnet-fn-backdate-behavior.pdb
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.csproj.AssemblyReference.cache
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.AssemblyInfoInputs.cache
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.AssemblyInfo.cs
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.csproj.CoreCompileInputs.cache
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.dll
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/refint/dotnet-fn-backdate-behavior.dll
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.pdb
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/dotnet-fn-backdate-behavior.genruntimeconfig.cache
+/Users/colin/dotnet-fn-backdate-behavior/obj/Debug/net7.0/ref/dotnet-fn-backdate-behavior.dll
